@@ -455,6 +455,14 @@ https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/97818
 </ul>
 </li>
 <li>
+<b>/mobile/Containers/Data/PluginKitPlugin/8CCA9271-2A0D-45D3-BE41-9CE19C3F7E0E/Documents/AMDSQLite.db.0</b>
+<ul>
+<li><b>Validity of foreground application in AMDAppStoreUsageEvents from AMDSQLite.db.0</b></li>
+https://www.researchgate.net/publication/393005242_Validity_of_foreground_application_in_AMDAppStoreUsageEvents_from_AMDSQLitedb0
+</ul>
+</li>
+<li>
+
 <b>/mobile/Containers/Shared/AppGroup/"Apple Maps GUID"/Maps/MapsSync_0.0.1</b>
 <ul>
 <li><b>What Apple Maps Activity Can be Found Using a Logical Extraction</b></li>
